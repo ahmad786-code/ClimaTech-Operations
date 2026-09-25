@@ -1,0 +1,6 @@
+{
+  "name": "ClimaTech Operations",
+  "description": "Aplicație mobilă și dispecerat pentru instalații sanitare, termice, climatizare VRF și ventilație.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
